@@ -1,0 +1,1 @@
+java Ace2.BambinoProperties -increment-build -set-build-date
