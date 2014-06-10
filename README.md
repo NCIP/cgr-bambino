@@ -4,7 +4,7 @@ cgr-bambino
 Bambino: SNP caller and Alignment Viewer for Next Gen Data
 
 More Information at: https://cgwb.nci.nih.gov/goldenPath/bamview/documentation/index.html
-Webstie for access to TCGA and public data sets : https://cgwb.nci.nih.gov/cgi-bin/bambino
+Website for access to TCGA and public data sets : https://cgwb.nci.nih.gov/cgi-bin/bambino
 
 Written in Java.  Uses 3rd party libraries (in jar files).
 
